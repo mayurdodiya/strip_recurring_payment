@@ -70,3 +70,360 @@ undefined
 2024-11-29 16:31:51 [[32minfo[39m]: get successfully
 2024-11-29 16:40:32 [[32minfo[39m]: get successfully
 2024-11-29 16:42:20 [[32minfo[39m]: user/get
+2025-01-10 21:01:31 [[31merror[39m]: "undefined" is not valid JSON
+2025-01-10 21:01:35 [[31merror[39m]: "undefined" is not valid JSON
+2025-01-10 21:02:11 [[31merror[39m]: "undefined" is not valid JSON
+2025-01-10 21:03:02 [[31merror[39m]: "undefined" is not valid JSON
+2025-01-10 21:03:27 [[31merror[39m]: "undefined" is not valid JSON
+2025-01-10 21:03:48 [[31merror[39m]: "undefined" is not valid JSON
+2025-01-10 21:04:12 [[31merror[39m]: subscription is not defined
+2025-01-10 21:33:03 [[31merror[39m]: undefined
+2025-01-10 21:33:48 [[31merror[39m]: undefined
+2025-01-10 21:34:26 [[31merror[39m]: [object Object]
+2025-01-10 21:34:42 [[31merror[39m]: [object Object]
+2025-01-10 21:35:40 [[31merror[39m]: [object Object]
+2025-01-10 21:40:01 [[31merror[39m]: [object Object]
+2025-01-10 21:48:08 [[31merror[39m]: planId is not defined
+2025-01-10 21:49:02 [[31merror[39m]: razorpay is not defined
+2025-01-10 21:49:19 [[31merror[39m]: [object Object]
+2025-01-10 23:09:18 [[31merror[39m]: JSON.parse is not a function
+2025-01-10 23:12:09 [[31merror[39m]: JSON.stringify is not a function
+2025-01-10 23:12:09 [[31merror[39m]: JSON.stringify is not a function
+2025-01-10 23:12:09 [[31merror[39m]: JSON.stringify is not a function
+2025-01-10 23:12:09 [[31merror[39m]: JSON.stringify is not a function
+2025-01-10 23:13:14 [[31merror[39m]: JSON.stringify is not a function
+2025-01-10 23:13:14 [[31merror[39m]: JSON.stringify is not a function
+2025-01-10 23:13:14 [[31merror[39m]: JSON.stringify is not a function
+2025-01-10 23:34:57 [[31merror[39m]: webhookSecret is not defined
+2025-01-10 23:35:00 [[31merror[39m]: webhookSecret is not defined
+2025-01-10 23:35:00 [[31merror[39m]: webhookSecret is not defined
+2025-01-10 23:35:00 [[31merror[39m]: webhookSecret is not defined
+2025-01-10 23:36:04 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-10 23:36:04 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-10 23:36:04 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-10 23:42:16 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-10 23:42:18 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-10 23:42:18 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-10 23:42:18 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-10 23:43:21 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-10 23:43:21 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-10 23:43:21 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-10 23:47:14 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-10 23:47:16 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-10 23:47:16 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-10 23:47:17 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-10 23:47:17 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-10 23:47:17 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-10 23:47:19 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-10 23:47:20 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-10 23:48:20 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-10 23:48:20 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-10 23:48:20 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-10 23:50:45 [[31merror[39m]: JSON.stringify is not a function
+2025-01-10 23:50:46 [[31merror[39m]: JSON.stringify is not a function
+2025-01-10 23:50:46 [[31merror[39m]: JSON.stringify is not a function
+2025-01-10 23:50:46 [[31merror[39m]: JSON.stringify is not a function
+2025-01-10 23:51:49 [[31merror[39m]: JSON.stringify is not a function
+2025-01-10 23:51:49 [[31merror[39m]: JSON.stringify is not a function
+2025-01-10 23:51:49 [[31merror[39m]: JSON.stringify is not a function
+2025-01-10 23:53:51 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-10 23:53:52 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-10 23:53:52 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-10 23:53:53 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-10 23:54:55 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-10 23:54:55 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-10 23:54:56 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-10 23:58:39 [[31merror[39m]: JSON.stringify is not a function
+2025-01-10 23:58:40 [[31merror[39m]: JSON.stringify is not a function
+2025-01-10 23:58:41 [[31merror[39m]: JSON.stringify is not a function
+2025-01-10 23:58:41 [[31merror[39m]: JSON.stringify is not a function
+2025-01-10 23:59:45 [[31merror[39m]: JSON.stringify is not a function
+2025-01-10 23:59:46 [[31merror[39m]: JSON.stringify is not a function
+2025-01-10 23:59:46 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 00:02:43 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 00:02:43 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 00:03:04 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 00:03:06 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 00:03:06 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 00:03:07 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 00:11:00 [[31merror[39m]: event is not defined
+2025-01-11 00:12:06 [[31merror[39m]: Cannot set headers after they are sent to the client
+2025-01-11 00:15:06 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 00:15:06 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 00:32:21 [[31merror[39m]: payload is not defined
+2025-01-11 00:32:25 [[31merror[39m]: payload is not defined
+2025-01-11 00:32:26 [[31merror[39m]: payload is not defined
+2025-01-11 00:32:26 [[31merror[39m]: payload is not defined
+2025-01-11 00:33:28 [[31merror[39m]: Cannot read properties of undefined (reading 'entity')
+2025-01-11 00:35:41 [[31merror[39m]: Cannot read properties of undefined (reading 'entity')
+2025-01-11 00:39:15 [[31merror[39m]: Cannot read properties of undefined (reading 'entity')
+2025-01-11 00:45:43 [[31merror[39m]: Cannot access 'payload' before initialization
+2025-01-11 00:45:44 [[31merror[39m]: Cannot access 'payload' before initialization
+2025-01-11 00:45:44 [[31merror[39m]: Cannot access 'payload' before initialization
+2025-01-11 00:45:44 [[31merror[39m]: Cannot access 'payload' before initialization
+2025-01-11 00:46:41 [[31merror[39m]: Cannot access 'payload' before initialization
+2025-01-11 00:46:43 [[31merror[39m]: Cannot access 'payload' before initialization
+2025-01-11 00:46:43 [[31merror[39m]: Cannot access 'payload' before initialization
+2025-01-11 00:46:43 [[31merror[39m]: Cannot access 'payload' before initialization
+2025-01-11 00:46:44 [[31merror[39m]: Cannot access 'payload' before initialization
+2025-01-11 00:46:44 [[31merror[39m]: Cannot access 'payload' before initialization
+2025-01-11 00:46:44 [[31merror[39m]: Cannot access 'payload' before initialization
+2025-01-11 00:47:30 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 00:47:32 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 00:47:33 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 00:47:33 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 00:47:46 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 00:47:46 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 00:47:46 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 00:48:35 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 00:48:35 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 00:48:35 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 00:49:28 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 00:49:30 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 00:49:30 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 00:49:30 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 00:49:30 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 00:49:30 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 00:49:31 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 00:49:31 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 00:50:19 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 00:50:19 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 00:50:19 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 00:50:24 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 00:50:27 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 00:50:27 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 00:50:27 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 00:51:30 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 00:51:31 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 00:51:36 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 00:52:25 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 00:52:26 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 00:52:26 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 00:52:26 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 00:53:50 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 00:53:53 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 00:53:53 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 00:53:53 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 00:54:18 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 00:54:18 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 00:54:18 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 00:54:57 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 00:54:57 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 00:54:58 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 00:56:05 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 00:56:05 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 00:56:06 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 00:56:06 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 01:21:33 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 01:21:36 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 01:21:36 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 01:21:36 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 09:45:24 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 09:45:25 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 09:45:26 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 09:45:26 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 09:46:12 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 09:46:12 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 09:46:13 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 09:46:13 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 09:46:29 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 09:46:29 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 09:46:30 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 09:46:48 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 09:46:48 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 09:46:49 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 09:46:49 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 09:47:01 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+2025-01-11 09:47:02 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+2025-01-11 09:51:47 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 09:51:49 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 09:51:49 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 09:51:49 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 09:52:51 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 09:52:53 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 09:52:55 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 09:52:59 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 09:53:01 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 09:53:01 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 09:53:03 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 09:54:43 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 09:54:44 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 09:54:46 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 09:54:49 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 09:54:50 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 09:54:50 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 09:54:51 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 09:59:31 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 09:59:32 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 09:59:33 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 09:59:33 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:00:04 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:00:05 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:00:07 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:00:07 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:00:14 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:00:16 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:00:17 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:00:18 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:00:36 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:00:36 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:00:37 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:00:38 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:00:39 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:00:41 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:00:49 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:00:50 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:00:51 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:01:10 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:01:10 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:01:10 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:01:11 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:02:01 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:02:04 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:02:04 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:02:05 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:02:10 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:02:10 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:02:10 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:03:07 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:03:08 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:03:14 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:03:24 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:03:25 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:03:25 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:03:25 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:03:26 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:03:27 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:03:28 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:03:29 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:03:45 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:03:47 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:03:47 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:03:47 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:03:59 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:03:59 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:04:00 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:04:01 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:04:01 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:04:02 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:04:10 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:04:13 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:04:13 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:04:13 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:04:50 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:04:50 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:04:50 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:05:15 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:05:15 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:05:15 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:05:16 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:05:20 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:06:05 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:06:06 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:06:06 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:06:08 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:06:29 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:06:29 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:06:30 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:07:10 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:07:10 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:07:10 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:07:27 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:07:28 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:07:29 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:07:29 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:07:29 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:07:53 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:07:55 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:07:56 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:07:56 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:08:07 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:08:07 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:08:09 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:08:11 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:08:19 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:08:21 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:08:21 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:08:36 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:08:38 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:08:41 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:08:41 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:08:41 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:09:46 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:09:46 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:09:47 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:10:18 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:10:18 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:10:18 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:10:31 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:11:03 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:12:11 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:12:12 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:12:12 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:12:12 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:12:14 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:12:14 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:12:14 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:12:44 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:12:45 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:12:46 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:12:46 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:13:17 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:13:18 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:13:19 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:13:23 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:13:26 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:13:26 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:13:26 [[31merror[39m]: JSON.stringify is not a function
+2025-01-11 10:13:47 [[31merror[39m]: JSON.s is not a function
+2025-01-11 10:13:47 [[31merror[39m]: JSON.s is not a function
+2025-01-11 10:13:47 [[31merror[39m]: JSON.s is not a function
+2025-01-11 10:14:05 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 10:14:05 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 10:14:08 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 10:14:19 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 10:14:21 [[31merror[39m]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2025-01-11 10:15:32 [[31merror[39m]: payload is not defined
+2025-01-11 10:15:33 [[31merror[39m]: payload is not defined
+2025-01-11 10:15:33 [[31merror[39m]: payload is not defined
+2025-01-11 10:15:33 [[31merror[39m]: payload is not defined
+2025-01-11 10:15:52 [[31merror[39m]: payload is not defined
+2025-01-11 10:15:52 [[31merror[39m]: payload is not defined
+2025-01-11 10:15:53 [[31merror[39m]: payload is not defined
+2025-01-11 10:16:24 [[31merror[39m]: payload is not defined
+2025-01-11 10:18:39 [[31merror[39m]: "[object Object]" is not valid JSON
+2025-01-11 10:18:39 [[31merror[39m]: "[object Object]" is not valid JSON
+2025-01-11 10:18:39 [[31merror[39m]: "[object Object]" is not valid JSON
+2025-01-11 10:18:49 [[31merror[39m]: "[object Object]" is not valid JSON
+2025-01-11 10:18:50 [[31merror[39m]: "[object Object]" is not valid JSON
+2025-01-11 10:18:50 [[31merror[39m]: "[object Object]" is not valid JSON
+2025-01-11 10:19:29 [[31merror[39m]: "[object Object]" is not valid JSON
+2025-01-11 10:19:30 [[31merror[39m]: "[object Object]" is not valid JSON
+2025-01-11 10:19:31 [[31merror[39m]: "[object Object]" is not valid JSON
+2025-01-11 10:19:41 [[31merror[39m]: "[object Object]" is not valid JSON
+2025-01-11 10:19:49 [[31merror[39m]: "[object Object]" is not valid JSON
+2025-01-11 10:19:49 [[31merror[39m]: "[object Object]" is not valid JSON
+2025-01-11 10:19:51 [[31merror[39m]: "[object Object]" is not valid JSON
+2025-01-11 10:20:13 [[31merror[39m]: "[object Object]" is not valid JSON
+2025-01-11 10:20:13 [[31merror[39m]: "[object Object]" is not valid JSON
+2025-01-11 10:20:34 [[31merror[39m]: "[object Object]" is not valid JSON
+2025-01-11 10:20:34 [[31merror[39m]: "[object Object]" is not valid JSON
+2025-01-11 10:20:34 [[31merror[39m]: "[object Object]" is not valid JSON
+2025-01-11 10:22:17 [[31merror[39m]: "[object Object]" is not valid JSON
+2025-01-11 10:22:18 [[31merror[39m]: "[object Object]" is not valid JSON
+2025-01-11 10:22:19 [[31merror[39m]: "[object Object]" is not valid JSON
+2025-01-11 10:22:30 [[31merror[39m]: "[object Object]" is not valid JSON
+2025-01-11 10:22:31 [[31merror[39m]: "[object Object]" is not valid JSON
+2025-01-11 10:22:31 [[31merror[39m]: "[object Object]" is not valid JSON
+2025-01-11 10:22:45 [[31merror[39m]: "[object Object]" is not valid JSON
+2025-01-11 10:22:45 [[31merror[39m]: "[object Object]" is not valid JSON
+2025-01-11 10:22:46 [[31merror[39m]: "[object Object]" is not valid JSON
+2025-01-11 10:22:49 [[31merror[39m]: "[object Object]" is not valid JSON
+2025-01-11 10:22:51 [[31merror[39m]: "[object Object]" is not valid JSON
+2025-01-11 11:29:54 [[31merror[39m]: [object Object]
+2025-01-11 12:31:06 [[31merror[39m]: error is not defined
+2025-01-11 14:06:57 [[31merror[39m]: Received unknown parameter: line_items[0][price_data]
+2025-01-13 17:20:32 [[31merror[39m]: Cannot read properties of undefined (reading 'create')
+2025-01-13 17:20:57 [[31merror[39m]: Cannot read properties of undefined (reading 'create')
+2025-01-13 17:32:50 [[31merror[39m]: Cannot read properties of undefined (reading 'create')
+2025-01-13 17:33:04 [[31merror[39m]: Cannot read properties of undefined (reading 'create')

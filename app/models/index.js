@@ -4,8 +4,8 @@ const { Sequelize } = require('sequelize');
 const HOST = 'aws-0-ap-south-1.pooler.supabase.com'
 const DB_NAME = 'postgres'
 const DB_PORT = 6543
-const DB_USERNAME = 'postgres.krbvaswyetvzhhxvacfh'
-const DB_PASSWORD = 'type_orm_curd_project'
+const DB_USERNAME = 'postgres.yqojwcmtndfkiajrrjgi'
+const DB_PASSWORD = 'new_demo_project_db'
 
 const sequelize = new Sequelize(DB_NAME, DB_USERNAME, DB_PASSWORD, {
   host: HOST,
