@@ -3,8 +3,8 @@ const geoGraphicalDistance = require("./../../services/geoGraphicalDistance");
 const RazorPayDocs = require("./../../services/razorPay");
 var logger = require("./../../services/logger");
 const crypto = require("crypto");
-const secrateKey = "sk_test_51Qfzo3P9sRZP42ZeLTaEKp9V4Wyrsa2sNod6WLtYnbh81wlMRhx2hl4NDZqAGsKJixN7OqkgnVFByFdfESaRjS3F003JMZq8gH";
-const publishKey = "pk_test_51Qfzo3P9sRZP42ZezAgwsiu43XdjSfQEbhZV4t8EdOVdujC5hKHrTuzW2xz4oJne0Sb7PrWv8ZQ4iGHpV9Vnhztt00PLhAEvIG";
+const secrateKey = "sk_test_51Qfzo3P9sRZP42ZeLTaEKp9V4Wyrsa2sNod6WLtYnbh81wlMRhx2hl4NDZqAGsKJixN7OqkgnVFByFdfESaRjS3F003JMZq8gH_k";
+const publishKey = "pk_test_51Qfzo3P9sRZP42ZezAgwsiu43XdjSfQEbhZV4t8EdOVdujC5hKHrTuzW2xz4oJne0Sb7PrWv8ZQ4iGHpV9Vnhztt00PLhAEvIG_k";
 const stripe = require("stripe")(secrateKey); // Use your test/live secret key
 
 const endpointSecret = "whsec_JwTjow8XL9DvZ6PcqekiFDeC0kRNinkk";
